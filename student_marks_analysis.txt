@@ -1,0 +1,62 @@
+student_marks_analysis
+
+
+Student	Marks
+A	10
+B	20
+C	20
+D	30
+E	30
+F	30
+G	40
+H	40
+I	50
+J	60
+
+
+mean->
+ 10+20+20+30+30+30+40+40+50+60=330/10=33
+
+median->
+(30+30)/2=30
+
+mode->
+30(3 times)
+
+
+variance->
+ mean=33
+(10-33)²=(-23)²=529
+(20-33)²=(-13)²=169 169×2=338 since it occurs 2 times.
+(30-33)²=(-3)²=9 9×3=27 since it occurs 3 times.
+(40-33)²=(7)²=49 49×2=98 since it occurs 2 times.
+(50-33)²=(17)²=289
+(60-33)²=(27)²=729
+
+529+338+27+98+289+729=2010
+
+population variance= 2010/10=201
+
+sample variance= (2010)/(10-1)=2010/9=223.33
+
+standard deviation->
+
+population sd =
+square root of 201=14.177
+
+sample sd=
+square root of 223.33=14.94
+
+
+
+mean =33
+median=30
+mode=30
+variance=201
+standard deviation=14.177
+
+
+
+
+
+
