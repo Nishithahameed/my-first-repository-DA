@@ -30,7 +30,7 @@ Combined the "Brand Name" and "Product Name" columns into a single column named 
 
 Number and Date Formatting
 formatted the "Price" column values into currency format ($)
-formatted the "Manufacturing Date" column to standard date formats (DD-MM-YYYY)
+formatted the "Manufacturing Date" column to standard date formats (DD-MM-YYYY).
 
 Conditional Formatting
 in price Column Applied visual data bars  to easily visualize high vs. low prices.
